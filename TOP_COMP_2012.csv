@@ -1,0 +1,123 @@
+company,ticker,source
+Apple,AAPL,MIT
+Applied Materials,AMAT,MIT
+ARM Holdings,ARMH,MIT
+Athenahealth,ATHN,MIT
+Dreamworks Animation,DWA,MIT
+Facebook,FB,MIT
+First Solar,FSLR,MIT
+General Electric,GE,MIT
+Google,GOOG,MIT
+IBM,IBM,MIT
+Intel,INTC,MIT
+Qualcomm,QCOM,MIT
+Netflix Inc.,NFLX,Barclays 
+General Mills Inc.,GIS,Barclays 
+Abbott Laboratories,ABT,Barclays 
+Becton Dickinson and Co.,BDX,Barclays 
+Gilead Sciences Inc.,GILD,Barclays 
+Hologic Inc,HOLX,Barclays 
+Illumina Inc.,ILMN,Barclays 
+Intuitive Surgical Inc.,ISRG,Barclays 
+Medtronic Inc.,MDT,Barclays 
+Qiagen NV,QGEN,Barclays 
+Quality Systems Inc.,QSII,Barclays 
+ResMed Inc.,RMD,Barclays 
+St Jude Medical,STJ,Barclays 
+Techne Corp.,TECH,Barclays 
+Varian Medical Systems,VAR,Barclays 
+"West Pharmaceutical Services Inc",WST,Barclays 
+"Emerson Electric Co",EMR,Barclays 
+"HEICO Corp.",HEI,Barclays 
+Lincoln Electric Holdings,LECO,Barclays 
+Triumph Group,TGI,Barclays 
+Woodward Inc.,WWD,Barclays 
+"Apple Inc.",AAPL,Barclays 
+ADTRAN Inc.,ADTN,Barclays 
+"Broadcom Corp",BRCM,Barclays 
+"Cree Inc.",CREE,Barclays 
+"Cisco Systems",CSCO,Barclays 
+Dolby Laboratories,DLB,Barclays 
+FLIR Systems,FLIR,Barclays 
+Google Inc.,GOOG,Barclays 
+"NetApp Inc.",NTAP,Barclays 
+"Nuance Communications",NUAN,Barclays 
+"Oracle Corp.",ORCL,Barclays 
+Synaptics Inc,SYNA,Barclays 
+"VistaPrint NV",CMPR,Barclays 
+"Monsanto Co.",MON,Barclays 
+3M Company,MMM,TH
+Advanced Micro Devices,AMD,TH
+Analog Devices,ADI,TH
+Apple,AAPL,TH
+AT&T,T,TH
+Boeing,BA,TH
+Chevron,CVX,TH
+Corning,GLW,TH
+Delphi,DLPH,TH
+Dow Chemical Company,DOW,TH
+DuPont,DFT,TH
+Eaton Corporation,ETN,TH
+EMC Corporation,EMC,TH
+Emerson Electric,EMR,TH
+ExxonMobil,XOM,TH
+Ford,F,TH
+General Electric,GE,TH
+Goodyear Tire & Rubber,GT,TH
+Google (now Alphabet Inc.),GOOG,TH
+Hewlett-Packard,HPQ,TH
+Honeywell International,HON,TH
+IBM,IBM,TH
+Intel,INTC,TH
+Lockheed Martin,LMT,TH
+Marvell,MRVL,TH
+Micron,MU,TH
+Microsoft,MSFT,TH
+Monsanto,MON,TH
+"Motorola, Inc.",MSI,TH
+Nike,NKE,TH
+Procter & Gamble,PG,TH
+Qualcomm,QCOM,TH
+Raytheon Company,RTN,TH
+Rockwell Automation Inc.,ROK,TH
+Sandisk,SNDK,TH
+Seagate,STX,TH
+Symantec,SYMC,TH
+Texas Instruments,TXN,TH
+United Technologies,UTX,TH
+Xerox,XRX,TH
+Xilinx,XLNX,TH
+Apple,AAPL,FC
+Facebook,FB,FC
+Google,GOOG,FC
+Amazon,AMZN,FC
+Apple,AAPL,PWC
+Google,GOOG,PWC
+3M,MMM,PWC
+General Electric,GE,PWC
+Microsoft,MSFT,PWC
+Procter & Gamble,PG,PWC
+IBM,IBM,PWC
+Amazon,AMZN,PWC
+Apple,AAPL,bcg
+Google,GOOG,bcg
+Microsoft,MSFT,bcg
+Facebook,FB,bcg
+Ibm,IBM,bcg
+Amazon,AMZN,bcg
+Toyota,TM,bcg
+Hewlett-Packard,HPQ,bcg
+General Electric,GE,bcg
+Nike,NKE,bcg
+Dupont,DFT,bcg
+3M,MMM,bcg
+Salesforce.com,CRM,FRBS
+Alexion,ALXN,FRBS
+Amazon.com,AMZN,FRBS
+Red Hat,RHT,FRBS
+Intuitive Surgical,ISRG,FRBS
+Edwards Lifesciences,EW,FRBS
+FMC Technologies,FTI,FRBS
+Cerner,CERN,FRBS
+Monsanto,MON,FRBS
+Perrigo,PRGO,FRBS
